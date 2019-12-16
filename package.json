@@ -1,0 +1,23 @@
+{
+  "name": "phaserwebpack",
+  "version": "1.0.0",
+  "description": "phaser with webpack es6 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmy-hub/phaserwebpack.git"
+  },
+  "keywords": [
+    "phaser",
+    "webpack"
+  ],
+  "author": "lmy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmy-hub/phaserwebpack/issues"
+  },
+  "homepage": "https://github.com/lmy-hub/phaserwebpack#readme"
+}
